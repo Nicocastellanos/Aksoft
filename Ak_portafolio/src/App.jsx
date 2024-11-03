@@ -1,14 +1,12 @@
-import './App.css'
-import {BrowserRouter, Routes, Route} from 'react-router-dom'
-import Titulo from './Titulo'
-import Footer from './Footer'
+import {BrowserRouter, Routes} from 'react-router-dom'
+import Navbar from './navbar'
 
 function App() {
 
   return (
     <>
       <BrowserRouter>
-
+        <Navbar/>
         <Routes>
           
         </Routes>
