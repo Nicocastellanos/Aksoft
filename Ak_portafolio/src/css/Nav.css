@@ -38,12 +38,12 @@
 }
 
 .menu nav ul li a {
-    color: #000; 
+    color: #1453da; 
     position: relative;
 }
 
 .menu nav ul li a:hover {
-    color: #88B04B;/*cambia el color a sobre poner en el texto al cursor*/ 
+    color: #4c00ff;/*cambia el color a sobre poner en el texto al cursor*/ 
 }
 
 .btn {
@@ -54,9 +54,9 @@
     font-weight: 500;
     margin: 0 20px;
     transition: all 300ms;
-    color: #6B5B95;
+    color: #000;
 }
 
 .btn:hover {
-    background: #FF6F61;/*cambia el color a sobre poner en el texto del boton cotizar al cursor*/ 
+    background:#4800ff ;/*cambia el color a sobre poner en el texto del boton cotizar al cursor*/ 
 }
